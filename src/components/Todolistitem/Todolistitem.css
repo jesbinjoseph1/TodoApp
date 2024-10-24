@@ -1,0 +1,16 @@
+.Listitem{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+}
+.Listitem h3{
+    width: 120px;
+}
+.Listitem button{
+    height: 30px;
+}
+.done{
+    text-decoration: line-through;
+    background-color: rgb(93, 101, 107);
+}
